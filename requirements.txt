@@ -1,0 +1,11 @@
+pandas
+datetime
+numpy
+matplotlib
+seaborn
+requests
+statsmodels
+linearmodels
+kagglehub
+pyarrow
+fastparquet
