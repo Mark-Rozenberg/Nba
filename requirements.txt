@@ -9,3 +9,4 @@ linearmodels
 kagglehub
 pyarrow
 fastparquet
+duckdb
